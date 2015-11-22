@@ -1,1 +1,1 @@
-My github and git training project
+My github and git training project.
